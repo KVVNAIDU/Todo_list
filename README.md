@@ -30,7 +30,7 @@ Look at the app screenshot below. Let's look at the main components of the appli
 **How does it look like**:eyes:
 
 *Screen of app*
-![howdoesitlooklikelight](mats/howitislooklike.png)
+![howdoesitlooklikelight](https://fascinating-moonbeam-a66897.netlify.app/)
 **********
 I just relax and gained experience here.
 
